@@ -1,0 +1,6 @@
+.DS_Store
+
+# Respaldos y captura de sesión: duplican el código o superan el tamaño razonable de git
+*.7z
+*.zip
+emociones172h1222-20210303-19.json
